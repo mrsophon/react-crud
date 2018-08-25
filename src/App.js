@@ -18,7 +18,8 @@ class App extends Component {
       loading: true
     };
 
-    this.apiUrl = 'https://5aa775d97f6fcb0014ee249e.mockapi.io';
+    // this.apiUrl = 'https://5aa775d97f6fcb0014ee249e.mockapi.io';
+    this.apiUrl = 'https://5b7fd875af5e5600144d5f72.mockapi.io';
 
     this.alert = this.alert.bind(this);
     this.addTodo = this.addTodo.bind(this);
